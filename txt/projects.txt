@@ -1,0 +1,14 @@
+Current Projects
+DND Tool Set - 
+    This is my most active project, as it has actually really started to save me time.  I am currently the dungeon master for 2 groups of 5 people, and preparing materials for 10 players can be difficult.  While I still like to take the personal route and make things super fun for my players, having a level of automation for when things get away from me has helped.  DND Tool Set isn't really one program, it's more of a collection of python scripts that I use as needed.
+    The tool set currently includes an encounter generator and a dungeon generator (without hallways).  I have been fine tuning a bad guy maker, to make interesting villains.  That will be uploaded to github shortly.  I also want to make a loot generator.  I am saving the loot generator for last, because it will probably be the easiest to implement.
+
+Sklergon: Boom World - 
+    Sklergon: Boom World is a game that I am currently creating using Unity. It's a vertical shmup and will have 8 levels.  Most of the sprites and music assets are done.  Finalizing the game in Unity is all that's left.
+    This project is a bit of a departure for me, as I do not plan to release it as open source.  Rather, I intend to release it to the google play store, apple app store and Steam for Linux.
+    The project is about 20% complete, having just recently finalized the design phase and moving into development.
+
+Mr. Planty - 
+    Mr. Planty is more of a working idea than a project currently.  I want to create a 3D printable flower pot capable of holding a raspberry pi zero, a speaker, a microphone and a soil moisture tester.  
+    The idea is to add either Google assistant or Mycroft personal digital assisant to it, create a task for monitoring soil moisture, and make the personal assistant into a "living" thing.
+    I would like for as much of this project to be open source and use other libraries.  I envision this being mostly me adapting other open source projects to work together, and not much coding on my part.

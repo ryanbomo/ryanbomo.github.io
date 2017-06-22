@@ -1,0 +1,26 @@
+Portfolio
+Software Examples
+Below you will find examples of my work.  Each of these have been chosen to show case my ability to design, create and deliver a program.
+
+Stat Reporter - 
+Stat Reporter was written to be a quick statistics program for my SWE 5001 course.  It ended up a bit over engineered.  The final version of StatReporter was able to write the reports to a txt file, and the course required built in test cases were removed.  Stat Reporter is not very impressive on its own, but it serves as the first "final" program that I wrote while in school, and serves as a sort of baseline for looking at how I have improved through school.
+
+SmartWord - 
+SmartWord is a text prediction program.  The idea is that a user will providea a previous example of their writing, and then SmartWord will use this to guess what they will type.  As the user inputs a letter, SmartWord will return 3 guesses.  If any of those 3 guesses are correct, SmartWord moves onto the next word.
+Initially, focus was on delivering a working product.  Once this was done, focus was shifted to tuning the feedback system, working with different corpora to enhance guesses and other semi-voodoo like tweaks. The final accuracy for SwartWord was around 50%.  This means that, for the most part, SmartWord could guess the word after typing 2 letters.  This came at using quite a large amount of memory (for the library mostly). 
+Features Include:
+ - Trie based system of word guessing.
+ - Ability to add unknown words to its dictionary as the user goes along
+ - Can reward good guesses and punish bad guesses
+ - Collection of corpora that can be used to enhance its guessing ability.  This occurs at varying degrees of success.
+
+Peer to Peer Chat - 
+
+
+Writing Examples
+The following is a quick list of reports and articles I have written.
+
+AI Report - Bayesian Hierarchical Clustering
+    Article written by Nicholas Lowring and Ryan Bomalaski that focuses on Bayesian Hierarchical Clustering.  The team was expected to review and understand a provided paper, and then find and discuss an open source example that is either identical to or closely related to the methods discussed in the paper.
+    My responsibilities were to find, test and dissect a program related to our paper.  In searching, I found an implementation written in R and C call BHC.  I then tested the program, and presented the code to the class in a series of talks.
+

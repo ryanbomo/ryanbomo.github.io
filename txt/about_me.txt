@@ -1,0 +1,11 @@
+But who is this... Ryanbomo... fellow?
+
+My name is Ryan, and this is my personal website!  I use this space to host both professional and... less professional... information about myself.  Right now it is mostly home to a list of what I have done and what I am doing.  But I hope to maintain a weekly development blog going forward, as well as add some neat-o mosquito web apps as well.  
+
+I am currently enrolled at Florida Institute of Technology in sunny (and humid, and hot, and sometimes ugh...) Melbourne Florida.  My hobbies include game development, tabletop gaming, embedded programming and fishing. That is to say, I tend to tinker with Unity, I am the foverver-DM for my 5th edition Dungeons and Dragons group, my collection of SoCs and arduino boards is on the verge of consuming me, and I unplug by feeding shrimp to fish one at a time. I also like to dable in the over lap between these things (cough... current DND project... cough).  
+
+About this site
+
+I built this site as a way to keep myself busy when my summer plans fell through (WOMP WOMP!).  All of the pictures were taken by me during my more adventours travelling phase, and all of the code/html was written by me in my less exciting desk bound days.  It is meant to be a mixture of professional credentials and less serious ramblings on coding, software development, my projects, games, or whatever I am thinking about when I get the urge to update.
+
+I hope you enjoy it!

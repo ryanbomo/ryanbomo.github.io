@@ -1,0 +1,32 @@
+Work History
+Lims Consultant
+LabAnswer - Orland, FL
+October 2014 - May 2016
+Worked as a Release Manager for a leading Clinical Research Organization.  Oversaw a total of 308 deployments across 14 production, testing and development environments.  Trained in LabWare lims development, Crystal Reports, and 21 CFR Part 11.
+
+Assistant Language Teacher
+JET Programme - Itoigawa, Niigata, Japan
+July 2011 - July 2014
+Assisted and taught classes in English as a second language at 4 high schools in Japan.  Designed activities and lesson plans to promote English learning and cross-cultural understanding.  Engaged with students of various proficiencies to enstill a solid language learning foundation.
+
+
+Education
+Master of Science - Software Engineering
+Florida Institute of Technology
+August 2016 - Now (Currently Enrolled)
+Projected Graduation: May 2018
+Currently enrolled and pursuing a Master of Science in Software Engineering with a primary focus on Network Programming, Database Systems and Embedded Software.  Other classes include Artificial Intelligance, Algorithms & Data Structures and Operating System Concepts.
+
+Bachelor of Arts - Biochemistry
+DePauw University
+August 2007 - May 2011
+Received a Bachelor of Arts degree in May of 2011. Trained in NMR Spectroscopy, UV-VIS Spectroscopy, X-ray Crystallography, Bomb Calorimetry and Microarray assays.  Performed research on the creation of novel compounds formed through th bonding of betains with lanthanides in ionic liquids.
+
+
+Skills
+Proficient in Java, Python, C/C++, SQL, HTML, Javascript and LIMS Basic.
+Experience in full stack development, network programming, release management, Agile development cycles, and LIMS development.
+Capable of working with Netbeans, Eclipse, Android Studio, IDLE 3, PyCharm, LabWare LIMS v6, Git and a plethora of other tools.
+
+
+
