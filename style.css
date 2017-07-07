@@ -1,0 +1,32 @@
+/*
+Theme Name:     ryanbomo style
+Description:    style sheet for ryanbomo website
+Author:         Ryan Bomalaski
+Author URI:     http://www.ryanbomo.com             
+Version:        1.0
+*/
+
+.rb_black_text{
+    color:#000000;
+}
+.rb_ink_text{
+    color:#062f4f;
+}
+.rb_posy_text{
+    color:#813772;
+}
+.rb_embers_text{
+    color:#B82601;
+}
+.title_bar{
+    
+}
+.mainLogo{
+    
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Source Code Pro', monospace;
+}
+h1,h2{
+    text-align: center;
+}
