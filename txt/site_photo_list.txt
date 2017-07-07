@@ -1,0 +1,14 @@
+Pictures Needed:
+
+about_me - Personal Photo
+currated_portfolio - Stat Reporter Screenshot
+projects - Skerlgon: Boom World mock up photo
+projects - Mr. Planty AutoCAD of planter
+
+Done:
+currated_portfolio - SmartWord Screen shot
+projects - DND Tool Set Encounter photo Python
+projects - DND Tool Set Map Photo Python
+currated_portfolio - Milestone3 Screen Shot
+projects - DND Tool Set Map Photo Java
+currated_portfolio - Bayesian Clustering image

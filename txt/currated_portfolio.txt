@@ -3,11 +3,11 @@ Software Examples
 Below you will find examples of my work.  Each of these have been chosen to show case my ability to design, create and deliver a program.
 
 Stat Reporter - 
-Stat Reporter was written to be a quick statistics program for my SWE 5001 course.  It ended up a bit over engineered.  The final version of StatReporter was able to write the reports to a txt file, and the course required built in test cases were removed.  Stat Reporter is not very impressive on its own, but it serves as the first "final" program that I wrote while in school, and serves as a sort of baseline for looking at how I have improved through school.
+Stat Reporter was written to be a quick statistics program for my SWE 5001 course.  It ended up a bit over engineered.  The final version of StatReporter was able to write the reports to a txt file, and the course required built in test cases were removed.  Stat Reporter is not very impressive on its own, but it serves as the first "final" program that I wrote while in school, and serves as a sort of baseline for looking at how I have improved.
 
 SmartWord - 
-SmartWord is a text prediction program.  The idea is that a user will providea a previous example of their writing, and then SmartWord will use this to guess what they will type.  As the user inputs a letter, SmartWord will return 3 guesses.  If any of those 3 guesses are correct, SmartWord moves onto the next word.
-Initially, focus was on delivering a working product.  Once this was done, focus was shifted to tuning the feedback system, working with different corpora to enhance guesses and other semi-voodoo like tweaks. The final accuracy for SwartWord was around 50%.  This means that, for the most part, SmartWord could guess the word after typing 2 letters.  This came at using quite a large amount of memory (for the library mostly). 
+SmartWord is a text prediction program.  The idea is that a user will provide a previous example of their writing, and then SmartWord uses this to guess what they are typing.  As the user inputs a letter, SmartWord will return 3 guesses.  If any of those 3 guesses are correct, SmartWord moves onto the next word.
+Initially, focus was on delivering a working product.  Once this was done, focus was shifted to tuning the feedback system, working with different corpora to enhance guesses and other semi-voodoo like tweaks. The final accuracy for SwartWord was around 50%.  This means that, for the most part, SmartWord could guess the word after typing 2 letters.  This came at using quite a large amount of memory (adding all dictionary words to the Trie mostly). 
 Features Include:
  - Trie based system of word guessing.
  - Ability to add unknown words to its dictionary as the user goes along
@@ -15,6 +15,14 @@ Features Include:
  - Collection of corpora that can be used to enhance its guessing ability.  This occurs at varying degrees of success.
 
 Peer to Peer Chat - 
+This program was written as a series of milestones for my network programming class - CSE 5232.  The idea was to build a peer to peer gossip system over a series of implementation steps.  The class milestones 2,3,4 and 5 all pertained to this project; milestone 1 was simply research tangent to the project.  
+Milestones:
+ - Milestone 2 - Iterative Gossip Server listening on UDP and TCP connections
+ - Milestone 3 - Convert to Concurrent Gossip Server, Add a command line interface
+ - Milestone 4 - Implement ASN.1 Synchronization, convert from processes to threads
+ - Milestone 5 - Unite both the client and the server under the same program
+This program has been included as an example of a sort of failure on my part and how I handled being unable to meet requirements. Milestones 2 and 3 were, for the most part, successful.  Both had some issues or some bad coding practices that made it into the "final" version of that milestone.  But both worked to about 95% specification.  Milestone 4 and Milestone 5 are where my group had issues.  The group writing the program was me and another student.  One of us worked primarily in C, while the other was uncomfortable with that language and insisted on working in C++.  As per the requirements of the assignment, this added a sort of "translation" step in our process where the code written in C++ needed to be brought over to work correctly in C.  The added time due to this caused each milestone to only be available in a non-compiling state.  I have no doubt that with a bit more time, or without needing the translation step, the code would have worked as expected.  Likewise, had C++ been an acceptable language for the assignment, we would have been successful with that as well.
+The issues here highlighted two of my biggest shortcomings: time management and proper division of labor.  It is quite possible that had I started immediately after being assigned the milestones, I would have been able to complete both milestones.  Likewise, had my partner and I been better able to divy up the tasks to reflect our strengths, we might have been better able to complete the last two milestones.  In the end, I am proud of my work here, but I also regret not doing more to ensure success on this project.
 
 
 Writing Examples

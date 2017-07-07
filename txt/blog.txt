@@ -1,0 +1,8 @@
+Title
+Subtitle
+Date Published
+Author
+Article information will go here.  For now this is just meant to be a template that I can use to design my blog pages around.
+Previous Post
+Next Post
+Home
