@@ -6,6 +6,16 @@ Author URI:     http://www.ryanbomo.com
 Version:        1.0
 */
 
+
+* {
+    background-color: #a3c1ad;
+}
+
+p {
+    color: #317873;
+    font-family: 'Montserrat', sans-serif;
+}
+
 .rb_black_text{
     color:#000000;
 }
@@ -26,6 +36,7 @@ Version:        1.0
 }
 h1,h2,h3,h4,h5,h6{
     font-family: 'Source Code Pro', monospace;
+    color: #062f4f;
 }
 h1,h2{
     text-align: center;
