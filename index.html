@@ -12,41 +12,178 @@
     </head>
     
     <body>
-        <div class="container-fluid">
-            <h1>Ryan Bomalaski</h1>
+ <div class="container-fluid">
+            <h1>Ryan Bomalask - Projects List</h1>
             
             <div class='row'>
             <br/>
             </div>
             
             <div class="row">
-                <div class="col-md-1"></div>
-                <div id="boxshadow" class="rb_brown_box col-md-2"><p class="center-justified"><a href="index.html">Home<span class="hacky-hyperlink"></span></a></div>
-                <div id="boxshadow" class="rb_brown_box col-md-2"><p class="center-justified"><a href="about.html">About Me<span class="hacky-hyperlink"></span></a></div>
-                <div id="boxshadow" class="rb_brown_box col-md-2"><p class="center-justified"><a href="projects.html">Projects<span class="hacky-hyperlink"></span></a></div>
-                <div id="boxshadow" class="rb_brown_box col-md-2"><p class="center-justified"><a href="cv.html">CV<span class="hacky-hyperlink"></span></a></div>
-                <div id="boxshadow" class="rb_brown_box col-md-2"><p class="center-justified"><a href="blog.html">Blog<span class="hacky-hyperlink"></span></a></div>
-                <div class="col-md-1"></div>
+                    <div id="boxshadow" class="rb_brown_box">
+                        <h3 class="rb_brown_box">
+                            About Me
+                        </h3>
+                        <p>
+                            This site is still very much a work in progress. My future plans for this are to adapt the below DND Tool Set to javascript and have a page for that.  In mean time, here is a quick about me and my list of projects.
+                        </p>
+                        <p class="rb_brown_box"> 
+                            I'm Ryan Bomalaski.  I am currently a Masters of Science student at Florida Institute of Technology.  Below are some of my projects for various classes and some tools I developed for myself.  Everything here was selected because it highlights some aspect of my work that I feel is important.  However, I make it a point to ensure a high standard of quality in everything I work on.
+                        </p>
+                    </div>
             </div>
-            
+                
             <div class='row'>
             <br/>
             </div>
-            <h2>News</h2>
-            <div id="boxshadow" class="rb_brown_box">
+            <div class="row">
+                <div class="col-md-8">
+                    <div id="boxshadow" class="rb_brown_box">
                         <h3 class="rb_brown_box">
-                            Updating Projects
+                            DND Tool Set
                         </h3>
-                        <p class="rb_brown_box">
-                            I am currently in the process of updating my projects page.  Head on over there to take a look at some of the interesting stuff I have built.
+                        <p class="rb_brown_box"> 
+                            This is my most active project, as it has actually really started to save me time.  I am currently the dungeon master for 2 groups of 5 people, and preparing materials for 10 players can be difficult.  While I still like to take the personal route and make things super fun for my players, having a level of automation for when things get away from me has helped.  DND Tool Set isn't really one program, it's more of a collection of python scripts that I use as needed.
                         </p>
-                        <h3 class="rb_brown_box">
-                            Work in Progress
-                        </h3>
                         <p class="rb_brown_box">
-                            This website is very much a work in progress.  I am using it to help teach myself html and css.  I will (hopefully) move onto javascript as well.
+                            The tool set currently includes an encounter generator and a dungeon generator (without hallways).  I have been fine tuning a bad guy maker, to make interesting villains.  That will be uploaded to github shortly.  I also want to make a loot generator.  I am saving the loot generator for last, because it will probably be the easiest to implement.<br/>
+                            <br/>
+                            <a href="https://github.com/ryanbomo/dnd_tools">Github</a>
                         </p>
                     </div>
+                </div>
+                <div id="boxshadow" class="rb_brown_box col-md-4">
+                    <img src="./image/projects-DND_Tool_Set_Map_Java.png" alt="dungeon">
+                    Sample Dungeon Output
+                </div>
+            </div>
+            
+            <div class="row">
+            <br/>
+            </div>
+            
+            <div class ="row">
+                <div id="boxshadow" class="rb_brown_box col-md-6">
+                    <img src="./image/currated_portfolio-SmartWord.png" alt="SmartWord">
+                    Sample Smart Word Output
+                </div>
+                <div class="col-md-6">
+                    <div id="boxshadow" class="rb_brown_box">
+                        <h3 class="rb_brown_box">
+                            SmartWord - CSE2010
+                        </h3>
+                        <p class="rb_brown_box">
+                            SmartWord is a project for my Data Structures and Algorithms class.  The goal of this project was to design a text prediction program using corpora.  The provided corpora were tweets by then presidential candidates Donald Trump and Hilary Clinton.  The program was meant to take the corpora and use it to recognize patterns, then take other tweets letter by letter and try to guess the incoming word.  When the incoming word was guessed, the input skips to the next full word.
+                        </p>
+                        <p class="rb_brown_box">
+                            This project has been added to my curated portfolio because it helps demonstrate my earlier work with Java, my competency with programming data structures and my penchant for project organization.  I am quite proud of the prediction accuracy I achieved - around 48% with the tested tweets.<br/>
+                            <br/>
+                            <a href="https://github.com/ryanbomo/SmartWordCSE2010">Github</a>
+                        </p>
+                    </div>
+                </div>
+            </div> 
+            
+                        
+            <div class="row">
+            <br/>
+            </div>   
+            
+            <div class ="row">
+                <div class="col-md-4">
+                    <div id="boxshadow" class="rb_brown_box">
+                        <h3 class="rb_brown_box">
+                            SWE5415 Project
+                        </h3>
+                        <p class="rb_brown_box">
+                            This is a currently ongoing project for my Software Testing II class.  The idea is to pipe an input of matrix coordinates, and then determine if the matrix is reflexive, transitive, symmetric, one to one, and  onto.  In addition, if the matrix is symmetric, reflexive and transitive, it needs to be able to create partitions showing the equivalence classes.
+                            Currently only assignment 1 for the overall project is finished.  Each of the above functions is separated innto its own small program.  The solutions are also fairly hacky, as handling matrices is difficult with C.
+                        </p>
+                        <p class="rb_brown_box">
+                            I have included this in my portfolio to have a currently on-going school project available.  It shows that I track requirements and documentation as I go, allowing for easy report making.  I also want to show the documents that I have created for helping other students in the class.<br/>                           <br/>
+                            <a href="https://github.com/ryanbomo/swe5415">Github</a>
+                        </p>
+                    </div>
+                </div>
+                <div id="boxshadow" class="rb_brown_box col-md-8">
+                    <img src="./image/currated_portfolio-SWE5415_Ass1.png" alt="5415">
+                </div>
+            </div>  
+            
+                        
+            <div class="row">
+            <br/>
+            </div>   
+            
+            <div class ="row">
+                <div id="boxshadow" class="rb_brown_box col-md-6">
+                    <img src="./image/currated_portfolio-collision_avoidance.png" alt="Collision Simulator">
+                </div>
+                <div class="col-md-6">
+                    <div id="boxshadow" class="rb_brown_box">
+                        <h3 class="rb_brown_box">
+                            Collision Avoidance
+                        </h3>
+                        <p class="rb_brown_box">
+                            The name of this project is actually kind of misleading. In fact, while collision avoidance was a large part of the project, the ultimate goal was actually to create a tool that can go from AADL to Python autmoatically. Collision Avoidance software was used as the initial design models.
+                        </p>
+                        <p>
+                            The goal of this project is to create a tool capable of autmatically mapping from AADL to Python. First, AADL was used to design a collision avoidance system. This was then used to create the program in Python. Manual mapping was done between the two, in order to show how paradigms in each lined up. Finally, this mapping was used to create a Java tool for automating from AADL to Python
+                        </p>
+                        <p class="rb_brown_box">
+                            <a href="https://github.com/ryanbomo/5002_collision_avoidance">Github</a>
+                        </p>
+                    </div>
+                </div>
+            </div>  
+            
+                        
+            <div class="row">
+            <br/>
+            </div>   
+            
+            <div class ="row">
+                <div class="col-md-4">
+                    <div id="boxshadow" class="rb_brown_box">
+                        <h3 class="rb_brown_box">
+                            5260 Milestones
+                        </h3>
+                        <p class="rb_brown_box">Electronic medical records are an organized collection of the medical information pertaining to a hospital or insurance systems patients and the details of their care.  Health Information Management is a quickly growing field, and in order to meet the primary needs of security and speed, great strides have been made in both database technology and database design for EMR. It is the goal of this project to emulate a simple EMR database in order to high light proper database design, implementation and testing methods using freely available tools such as SQLite3 and Python.
+                        </p>
+                        <p class="rb_brown_box">
+                        The main considerations when designing the database was that it must store information about the doctors, their patients, and their illnesses. Since those were the three important aspects of the database each one was created as an entity, the relevant attributes were given to them, and the proper relations between the entities were established.
+                        </p>
+                        <p class="rb_brown_box">
+                            In order for the database to better represent what a hospital or insurance network might utilize, a random record generator was developed in the Python language. As this was just a tool to fill in data for our database, it did not need to be secure nor did it need to be extremely quick. Python was chosen because it was seen to be good enough.
+                        </p>
+                        <p class="rb_brown_box">
+                            <a href="https://github.com/ryanbomo/5260-Project">Github</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div id="boxshadow" class="rb_brown_box col-md-12">
+                        <img src="./image/currated_portfolio-5260_ER_Rep.png" alt="ER Diagram">
+                    </div>
+                </div>
+            </div>     
+            
+                        
+            <div class="row">
+            <br/>
+            </div>  
+            
+                        
+            <div class="row">
+            </div>   
+            
+                        
+            <div class="row">
+            <br/>
+            </div>   
+            
+           
+            
             
         </div>
     </body>
